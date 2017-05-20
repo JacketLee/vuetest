@@ -1,8 +1,8 @@
 # myproject
-author: Leezhen
+author: Lee zhen
 
 > A Vue.js project
-
+ 
 ## Build Setup
 
 ``` bash
